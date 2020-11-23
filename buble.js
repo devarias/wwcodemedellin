@@ -2,10 +2,10 @@
  * @param {*} array array of integers
  */
 const bubleSort = (array) => {
-    let arraySort = array
+    let arraySort = array;
     let tmp;
     let i = 0, j = 1;
-    let size = array.length
+    let size = array.length;
 
 	if ( size <= 0)
         return "El array está vacio!";
@@ -23,6 +23,6 @@ const bubleSort = (array) => {
             }
         }
     }
-    return arraySort
+    return arraySort;
 }
 console.log(bubleSort(array))
