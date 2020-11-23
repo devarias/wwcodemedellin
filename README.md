@@ -25,3 +25,15 @@
 | ------------- |:-------------:|
 | buble.js | Función que ordena a través del Método Bubble Sort un array de enteros. |
 | factorial.js | Función que encuentra el factorial con recursividad del número que pasas como parámetro, el resultado es un número entero calculado. |
+
+## Dónde encontrar los retos?
+
+Instagram de [WHOMENWHOCODEMEDELLIN](https://www.instagram.com/wwcodemedellin/) donde podrás encontrar los retos que se resuelven en este repo.
+
+[Reto 1](https://www.instagram.com/p/CH3bVn4jIYM/?utm_source=ig_web_copy_link) de Machine Learning.
+
+[Reto 2](https://www.instagram.com/p/CH6CHB-jUnE/?utm_source=ig_web_copy_link) de Machine Learning.
+
+[Reto 1](https://www.instagram.com/p/CH3hCT8jez_/?utm_source=ig_web_copy_link) de Algoritmos y lógica.
+
+[Reto 2](https://www.instagram.com/p/CH6CissjhpI/?utm_source=ig_web_copy_link) de Algoritmos y lógica.
