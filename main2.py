@@ -8,6 +8,7 @@ def generar_dataframe_palabras(text):
     for word in new_text:
         diccionario_ocurrencias[word] = new_text.count(word)
     dataframe = pandas.DataFrame(diccionario_ocurrencias, index=[0])
+    print(dataframe)
     return dataframe
 
 
